@@ -1,0 +1,37 @@
+[System]
+Name='fuzzytuningPID'
+Type='mamdani'
+Version=2.0
+NumInputs=1
+NumOutputs=2
+NumRules=2
+AndMethod='min'
+OrMethod='max'
+ImpMethod='min'
+AggMethod='max'
+DefuzzMethod='mom'
+
+[Input1]
+Name='theta'
+Range=[0 3.14]
+NumMFs=2
+MF1='thetaSmall':'trimf',[0 0 0.1]
+MF2='thetaGreat':'trimf',[0 3.14 6.28]
+
+[Output1]
+Name='Kp'
+Range=[720 1000]
+NumMFs=2
+MF1='KpSmall':'trimf',[0 720 950]
+MF2='KpGreat':'trimf',[900 972 990]
+
+[Output2]
+Name='Kd'
+Range=[0 140]
+NumMFs=2
+MF1='KdSmall':'trimf',[0 0 120]
+MF2='KdGreat':'trimf',[90 140 140]
+
+[Rules]
+2, 1 1 (1) : 1
+1, 2 2 (1) : 1

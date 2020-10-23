@@ -1,0 +1,8 @@
+Open the MAIN SIMULATION.slx
+
+
+If you face any issue, try these steps:
+
+	1. Open and run initDuckWPT.m
+	2. Open and run startup_Contact_Forces.m
+	3. Contact me via email: duke7295@gmail.com
