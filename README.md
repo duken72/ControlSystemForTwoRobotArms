@@ -22,7 +22,7 @@ My Final Graduation Thesis
 ##### 1. Design and Create 3D Models of Robot Arms
 I designed and created robot parts and assembled them with SOLIDWORKS
 
-![SolidWorks](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/SolidWorks.jpg | height=90)
+![SolidWorks](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/SolidWorks.jpg&h=90)
 
 
 ## Comment
