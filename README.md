@@ -60,4 +60,9 @@ Based on Discrete Event System, the state flow is designed for each stage of gra
 #### 3. PD Controller with Fuzzy Control
 ![PD Controller](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/PDcontroller.jpg)
 
+---
+
 ## Comment
+- The simulation was insanely slow due to the complexity of the contact force interaction, unlike the trajectory tracking simulation.
+- At the time of research, I was unfamiliar enough with Multibody Dynamics in general, and specific for the Dynamics Formulation for robotic systems this complicate. Thus, I was solely focusing on using inverse kinematics.
+- In addition, I did not have the oppotunity to work with real models, parameters were estimated, not accurately measured.
