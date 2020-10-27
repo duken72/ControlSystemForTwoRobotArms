@@ -24,9 +24,9 @@ My Final Graduation Thesis
 ## Introduction
 ### 1. Design and Creation of 3D Models
 Robot parts are designed and assembled with SOLIDWORKS
-
-![SolidWorks](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/SolidWorks.jpg)
-<img src="https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/SolidWorks.jpg" alt="SolidWorks" height="90">
+<p align="center">
+  <img src="https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/SolidWorks.jpg" alt="SolidWorks" height="140">
+</p>
 
 Simple ED7220C robot arm
 
