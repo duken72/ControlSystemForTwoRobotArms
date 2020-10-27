@@ -47,7 +47,7 @@ The single arm is for simulation of tracking trajectory, then the duo-arms model
 
 The final model is then imported into Simscape, MATLAB, and could be visualize with Mechanic Explorers.
 <p align="center">
-  <img src="https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/envi.png" alt="3D models" height="270">
+  <img src="https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/envi.png" alt="3D models" height="270">
 </p>
 
 ### 2. Design Hierarchical Control Structure
