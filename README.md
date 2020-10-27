@@ -1,4 +1,4 @@
-# ControlSystemForTwoRobotArms
+# Control System for Two Robot Arms
 My Final Graduation Thesis
 
 ## NEWS
@@ -43,7 +43,7 @@ Finally, import the model into Simscape, MATLAB
 
 #### 2. Design Hierarchical Control Structure
 The Control Structure with 3 level:
-![Control Structure](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/control%20structure.jpg)
+![Control Structure](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/controlstructure.jpg)
 ### 1. Supervisory Controller
 Based on Discrete Event System, the state flow is designed for each stage of grabbing and moving
 ![State Flow](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/stateflow.jpg)
