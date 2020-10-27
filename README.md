@@ -31,26 +31,24 @@ Robot parts are designed and assembled with SOLIDWORKS
 Simple ED7220C robot arm
 
 <p align="center">
-  <img src="https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/ED7220C.jpg" alt="ED7220C" height="270">
+  <img src="https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/ED7220C.jpg" alt="ED7220C" height="140">
 </p>
 
 Then, moving to more complex robot arms to have more flexibility, so that the robot arms can actually able to cooperate with each others. The NTU iCeiRA robot models are mirrored.
 The single arm is for simulation of tracking trajectory, then the duo-arms model is for control design and simulation of cooperation.
 
 <p align="center">
-  <img src="https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/NTU%20iCeiRA.jpg" alt="NTU iCeiRA" height="270">
+  <img src="https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/NTU%20iCeiRA.jpg" alt="NTU iCeiRA" height="140">
 </p>
 
 <p align="center">
-  <img src="https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/NTU%20iCeiRA%20Duo.jpg" alt="NTU iCeiRA Duo" height="270">
-</p>
-
-<p align="center">
-  <img src="" alt="SolidWorks" height="270">
+  <img src="https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/NTU%20iCeiRA%20Duo.jpg" alt="NTU iCeiRA Duo" height="140">
 </p>
 
 The final model is then imported into Simscape, MATLAB, and could be visualize with Mechanic Explorers.
-![3D models](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/envi.png)
+<p align="center">
+  <img src="https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/envi.png" alt="3D models" height="270">
+</p>
 
 ### 2. Design Hierarchical Control Structure
 The Control Structure with 3 level:
