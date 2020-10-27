@@ -1,8 +1,7 @@
 # ControlSystemForTwoRobotArms
 My Final Graduation Thesis
 
-How to run on Matlab
-## 1. Setting Up
+## How to run on Matlab
 ##### 1. Clone the repository
 ##### 2. Open FINAL.slx
 ##### 3. Open and run initDuckWPT.m
@@ -14,3 +13,8 @@ How to run on Matlab
 ##### 4. Open and run startup_Contact_Forces.m
 - Initlize the Contact_Forces library
 
+
+## Introduction
+
+
+## Comment
