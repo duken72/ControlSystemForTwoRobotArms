@@ -21,7 +21,7 @@ My Final Graduation Thesis
 
 
 ## Introduction
-#### 1. Design and Create 3D Models of Robot Arms
+### 1. Design and Create 3D Models of Robot Arms
 I designed and created robot parts and assembled them with SOLIDWORKS
 
 ![SolidWorks](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/SolidWorks.jpg)
@@ -41,11 +41,14 @@ Finally, import the model into Simscape, MATLAB
 ![3D models](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/envi.png)
 
 
-#### 2. Design Hierarchical Control Structure
+### 2. Design Hierarchical Control Structure
 The Control Structure with 3 level:
 ![Control Structure](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/controlstructure.jpg)
-### 1. Supervisory Controller
+#### 1. Supervisory Controller
 Based on Discrete Event System, the state flow is designed for each stage of grabbing and moving
 ![State Flow](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/stateflow.jpg)
+#### 2. Inverse Kinematics
+#### 3. PD Controller with Fuzzy Control
+![PD Controller](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/PDcontroller.jpg)
 
 ## Comment
