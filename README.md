@@ -3,7 +3,7 @@ My Final Graduation Thesis
 
 ## NEWS
 - [2020/10] ***[Simulation result](https://youtu.be/cTyVofR3yck)!!***
-- [2018/9] ***[Thesis Report](https://drive.google.com/file/d/19jg1Va8a1-06v_jeCaEbpSTN42Sba4jJ/view?usp=sharing)!!*** (only in Vietnamese) and ***[Presentaion](https://drive.google.com/file/d/1Zo7_rQ6bLqmFy-hEGOC8X1EVgzKX1z1O/view?usp=sharing)!!*** (English)
+- [2018/9] ***[Thesis Report](https://drive.google.com/file/d/19jg1Va8a1-06v_jeCaEbpSTN42Sba4jJ/view?usp=sharing)!!*** (only in Vietnamese) and ***[Presentation](https://drive.google.com/file/d/1Zo7_rQ6bLqmFy-hEGOC8X1EVgzKX1z1O/view?usp=sharing)!!*** (English)
 
 ---
 
