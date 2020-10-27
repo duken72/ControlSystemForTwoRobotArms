@@ -31,9 +31,9 @@ I started with the simple ED7220C robot arm
 Then moved to more complex robot arms to have more flexibility, so that the robot arms can actually cooperate with each others. I mirrored the NTU iCeiRA robot models.
 The single arm for simulation of tracking trajectory, then the duo-arms model for simulation of cooperation.
 
-![NTU iCeiRA](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/NTU iCeiRA.jpg)
+![NTU iCeiRA](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/NTU\iCeiRA.jpg)
 
-![NTU iCeiRA Duo](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/NTU iCeiRA Duo.jpg)
+![NTU iCeiRA Duo](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/NTU\iCeiRA\Duo.jpg)
 
 
 
