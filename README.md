@@ -25,19 +25,29 @@ My Final Graduation Thesis
 ### 1. Design and Creation of 3D Models
 Robot parts are designed and assembled with SOLIDWORKS
 <p align="center">
-  <img src="https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/SolidWorks.jpg" alt="SolidWorks" height="140">
+  <img src="https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/SolidWorks.jpg" alt="SolidWorks" height="270">
 </p>
 
 Simple ED7220C robot arm
 
-![ED7220C](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/ED7220C.jpg)
+<p align="center">
+  <img src="https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/ED7220C.jpg" alt="ED7220C" height="270">
+</p>
 
-Then moving to more complex robot arms to have more flexibility, so that the robot arms can actually able to cooperate with each others. The NTU iCeiRA robot models are mirrored.
+Then, moving to more complex robot arms to have more flexibility, so that the robot arms can actually able to cooperate with each others. The NTU iCeiRA robot models are mirrored.
 The single arm is for simulation of tracking trajectory, then the duo-arms model is for control design and simulation of cooperation.
 
-![NTU iCeiRA](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/NTU%20iCeiRA.jpg)
+<p align="center">
+  <img src="https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/NTU%20iCeiRA.jpg" alt="NTU iCeiRA" height="270">
+</p>
 
-![NTU iCeiRA Duo](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/NTU%20iCeiRA%20Duo.jpg)
+<p align="center">
+  <img src="https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/NTU%20iCeiRA%20Duo.jpg" alt="NTU iCeiRA Duo" height="270">
+</p>
+
+<p align="center">
+  <img src="" alt="SolidWorks" height="270">
+</p>
 
 The final model is then imported into Simscape, MATLAB, and could be visualize with Mechanic Explorers.
 ![3D models](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/envi.png)
