@@ -26,6 +26,7 @@ My Final Graduation Thesis
 Robot parts are designed and assembled with SOLIDWORKS
 
 ![SolidWorks](https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/SolidWorks.jpg)
+<img src="https://github.com/duken72/ControlSystemForTwoRobotArms/blob/main/images/SolidWorks.jpg" alt="SolidWorks" height="90">
 
 Simple ED7220C robot arm
 
