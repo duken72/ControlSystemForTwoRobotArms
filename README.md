@@ -1,5 +1,5 @@
 # Control System for Two Robot Arms
-My Final Graduation Thesis
+My Final Graduation Bachelor Thesis
 
 ## NEWS
 - [2020/10] ***[Simulation result](https://youtu.be/cTyVofR3yck)!!***
